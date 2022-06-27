@@ -2,3 +2,6 @@
 // console.log('tabs逻辑');
 import './banner.js'
 import './tabs.js'
+import $ from 'jquery'
+
+$('#swiper').css('background-color', 'red')
